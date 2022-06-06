@@ -33,4 +33,4 @@
 - 说一下js闭包，怎么理解，有什么作用，有什么缺点
 - 说一下Promise ，原理了解吗
 - Vue 响应式原理了解吗，Vue2和Vue3响应式实现有何不同
-- 了解堆吗，堆排序思路说一下？
+- 了解堆吗，堆排序思路说一下？[堆和堆排序](https://github.com/userlww/FE_INTERVIEW/blob/main/algorithm/%E5%A0%86%E5%92%8C%E5%A0%86%E6%8E%92%E5%BA%8F.md)
