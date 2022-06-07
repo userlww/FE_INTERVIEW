@@ -28,3 +28,9 @@
 - vue中的key是干什么用的
 - 常见的web攻击方式，如何防御？
    
+#### 2022年6月6日
+- 说一下原型链是什么，实现继承的几种方式
+- 说一下js闭包，怎么理解，有什么作用，有什么缺点
+- 说一下Promise ，原理了解吗
+- Vue 响应式原理了解吗，Vue2和Vue3响应式实现有何不同
+- 了解堆吗，堆排序思路说一下？[堆和堆排序](https://github.com/userlww/FE_INTERVIEW/blob/main/algorithm/%E5%A0%86%E5%92%8C%E5%A0%86%E6%8E%92%E5%BA%8F.md)
