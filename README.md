@@ -34,3 +34,10 @@
 - 说一下Promise ，原理了解吗
 - Vue 响应式原理了解吗，Vue2和Vue3响应式实现有何不同
 - 了解堆吗，堆排序思路说一下？[堆和堆排序](https://github.com/userlww/FE_INTERVIEW/blob/main/algorithm/%E5%A0%86%E5%92%8C%E5%A0%86%E6%8E%92%E5%BA%8F.md)
+
+#### 2022年6月7日
+1. js数组去重？
+2. 什么是同源策略，如何解决跨域问题
+3. 什么是回流和重绘，什么情况下会发生
+4. websocket了解么，建连过程是怎样的
+5. 微信小程序双线程原理？[微信小程序双线程模型](miniPrograme/小程序双线程模型.md)
