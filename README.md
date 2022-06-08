@@ -41,3 +41,10 @@
 3. 什么是回流和重绘，什么情况下会发生
 4. websocket了解么，建连过程是怎样的
 5. 微信小程序双线程原理？[微信小程序双线程模型](miniPrograme/小程序双线程模型.md)
+
+#### 2022年6月8日
+1. Map/WeakMap,Set/WeakSet了解吗，有什么区别，Map和普通的Object有什么不一样k？
+2. Vue中nextTick怎么理解？[Vue.nextTick使用和实现原理](./Vue/Vue.nextTick.md)
+3. js中的this对象？
+4. 常见的HTTP状态码，301和302什么区别
+5. 平衡二叉树？
