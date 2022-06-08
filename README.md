@@ -44,7 +44,7 @@
 
 #### 2022年6月8日
 1. Map/WeakMap,Set/WeakSet了解吗，有什么区别，Map和普通的Object有什么不一样k？
-2. Vue中nextTick怎么理解？[Vue.nextTick使用和实现原理](./Vue/Vue.nextTick.md)
+2. Vue中nextTick怎么理解？[Vue.nextTick使用和实现原理](./Vue/Vue.nextTic%E4%BD%BF%E7%94%A8%E5%92%8C%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86.md)
 3. js中的this对象？
 4. 常见的HTTP状态码，301和302什么区别
 5. 平衡二叉树？
