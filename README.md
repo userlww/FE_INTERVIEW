@@ -59,6 +59,6 @@
 #### 2022年6月10日
 1. let var const的区别
 2. vue mixin 是什么，如何使用
-3. JavaScript 垃圾回收
+3. JavaScript 垃圾回收[JavaScript垃圾回收](./JavaScript/JavaScript垃圾回收机制.md)
 4. webpack构建流程
 5. 翻转二叉树？
