@@ -62,3 +62,11 @@
 3. JavaScript 垃圾回收[JavaScript垃圾回收](./JavaScript/JavaScript垃圾回收机制.md)
 4. webpack构建流程
 5. 翻转二叉树？
+
+#### 2022年6月11日
+
+1. apply，call，bind的作用及区别
+2. JavaScript函数式编程？
+3. vue组件通信
+4. css画一个三角形，原理是什么
+5. 深度优先遍历和广度优先遍历[DFS和BFS](./algorithm/DFS和BFS.md)
