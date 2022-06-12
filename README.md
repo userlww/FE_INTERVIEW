@@ -70,3 +70,11 @@
 3. vue组件通信
 4. css画一个三角形，原理是什么
 5. 深度优先遍历和广度优先遍历[DFS和BFS](./algorithm/DFS和BFS.md)
+
+#### 2022年6月12日
+
+1. 箭头函数和普通函数的区别
+2. nodejs事件循环，和浏览器中的事件循环机制有什么区别
+3. 虚拟DOM是什么，vue中虚拟DOM是怎么工作的[虚拟DOM](./Vue/Vue虚拟DOM简介.md)
+4. GET请求和POST请求的区别
+5. vue中computed和watch的区别
