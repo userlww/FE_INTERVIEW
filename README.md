@@ -85,3 +85,11 @@
 3. CSS预编译
 4. nodejs有哪些原生模块，各自是什么作用
 5. 反转链表 
+
+#### 2022年6月14日
+
+1. js中遍历对象，遍历数组分别有哪些方式 [数组和对象的遍历](./JavaScript/JavaScript对象和数组的遍历.md)
+2. 字符串方法substr,substring.slice,使用和区别
+3. vue组件生命周期
+4. git merge和git rebase
+5. 相交链表
