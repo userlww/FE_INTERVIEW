@@ -93,3 +93,10 @@
 3. vue组件生命周期
 4. git merge和git rebase
 5. 相交链表
+
+#### 2022年6月15日
+1. ES6中的Decorator是什么，使用场景？
+2. js中为什么0.1+0.2不等于0.3，数字精度问题如何解决
+3. ajax原理？手写ajax实现[AJAX原理与实现](./JavaScript/AJAX原理解析.md)
+4. Vue SSR是什么，解决了什么问题
+5. 有序数组合并
