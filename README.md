@@ -100,3 +100,13 @@
 3. ajax原理？手写ajax实现[AJAX原理与实现](./JavaScript/AJAX原理解析.md)
 4. Vue SSR是什么，解决了什么问题
 5. 有序数组合并
+
+
+#### 2022年6月16日
+
+1. Vue3 的 Composition Api 与 Vue2的 Options Api 有什么不同
+2. js事件模型、事件代理[JavaScript事件模型和事件代理](./JavaScript/JavaScript事件模型和事件代理.md)
+3. webpack热更新是怎么做到了，了解原理吗
+4. 微信小程序页面、组件生命周期？
+5. 二分查找
+
