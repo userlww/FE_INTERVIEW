@@ -136,8 +136,8 @@
 
 #### 2022年6月20日
 
-1.什么是工厂模式，什么是原型模式，是做什么用的
-2. 什么是尾递归
+1. 什么是工厂模式，什么是原型模式，是做什么用的
+2. 什么是尾递归[尾调用与尾递归](./JavaScript/尾调用和尾递归.md)
 3. typeof 与 instanceof 区别
 4. ES6 Generator是什么，应用场景
 5. 岛屿数量[岛屿数量](https://leetcode.cn/problems/number-of-islands/)
