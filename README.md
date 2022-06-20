@@ -133,3 +133,11 @@
 3. 性能优化手段有哪些 [性能优化策略](./browser/前端性能优化.md)
 4. TCP和UDP的区别
 5. LRU缓存机制
+
+#### 2022年6月20日
+
+1.什么是工厂模式，什么是原型模式，是做什么用的
+2. 什么是尾递归
+3. typeof 与 instanceof 区别
+4. ES6 Generator是什么，应用场景
+5. 岛屿数量[岛屿数量](https://leetcode.cn/problems/number-of-islands/)
