@@ -141,3 +141,12 @@
 3. typeof 与 instanceof 区别
 4. ES6 Generator是什么，应用场景
 5. 岛屿数量[岛屿数量](https://leetcode.cn/problems/number-of-islands/)
+
+
+#### 2022年6月21日
+
+1. vue初始化阶段做了哪些事情，基于源码谈一下
+2. 如何判断元素在可视区域内
+3. vue中的filter？使用场景？
+4. 垂直居中？
+5. 合并有序数组[合并有序数组](https://leetcode.cn/problems/merge-sorted-array/)
