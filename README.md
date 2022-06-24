@@ -167,3 +167,12 @@
 3. vue-router的原理是什么?[hash/history模式](./browser/history-hash路由模式.md)
 4. 什么是语义化，语义化标签有哪些
 5. 二叉树中序遍历 [中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/)
+
+#### 2022年6月24日
+
+1. vue中计算属性和普通属性的区别
+2. TS的优势
+3. v-model怎么实现是
+4. 什么是SEO[SEO](./browser/SEO和SEO优化.md)
+5. 二叉树前序遍历
+https://leetcode.cn/problems/binary-tree-preorder-traversal/
