@@ -185,3 +185,11 @@ https://leetcode.cn/problems/binary-tree-preorder-traversal/
 3. Vuex是什么，简单介绍一下
 4. 内存泄露的情况
 5. 二叉树后序遍历[算法题整理系列(-)](./algorithm/算法题解整理系列(一).md)
+
+#### 2022年6月26日
+
+1. JavaScript中词法环境是指什么
+2. XSS攻击是什么，举个例子，如何防御[XSS介绍和防御](./security/XSS介绍和防御.md)
+3. 什么是策略模式，解决了什么问题
+4. ES6中super关键字是做什么用的
+5. 斐波那契数列[斐波那契数列](https://leetcode.cn/problems/fei-bo-na-qi-shu-lie-lcof/)
