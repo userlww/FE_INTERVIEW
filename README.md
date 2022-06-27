@@ -193,3 +193,12 @@ https://leetcode.cn/problems/binary-tree-preorder-traversal/
 3. 什么是策略模式，解决了什么问题
 4. ES6中super关键字是做什么用的
 5. 斐波那契数列[斐波那契数列](https://leetcode.cn/problems/fei-bo-na-qi-shu-lie-lcof/)
+
+
+#### 2022年6月27日
+
+1. 手写观察者模式
+2. 301、302、304的区别
+3. 前端单测如何做
+4. 什么是DOM，什么是BOM，相关的api有哪些 [DOM和BOM简单介绍](./browser/DOM和BOM.md)
+5. 二叉树最大路径和：https://leetcode.cn/problems/binary-tree-maximum-path-sum/
