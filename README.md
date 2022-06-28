@@ -202,3 +202,11 @@ https://leetcode.cn/problems/binary-tree-preorder-traversal/
 3. 前端单测如何做
 4. 什么是DOM，什么是BOM，相关的api有哪些 [DOM和BOM简单介绍](./browser/DOM和BOM.md)
 5. 二叉树最大路径和：https://leetcode.cn/problems/binary-tree-maximum-path-sum/
+
+#### 2022年6月28日
+
+1. vue路由守卫是什么?有哪几类？具体的方法？
+2. nginx了解吗，做什么用，反向代理是什么含义
+3. 介绍一下迭代器模式
+4. nodeJs中间件？[NodeJS中间件](./NodeJs/NodeJs中间件.md)
+5. 链表中倒数第k个节点https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/
