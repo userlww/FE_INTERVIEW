@@ -218,3 +218,12 @@ https://leetcode.cn/problems/binary-tree-preorder-traversal/
 3. 常用浏览器的内核
 4. 什么是CORS
 5. 零钱兑换[零钱兑换](https://leetcode.cn/problems/coin-change/)
+
+#### 2022年6月30日
+
+1. 什么是同源策略，如何解决跨域问题
+2. nodejs事件循环，和浏览器中的事件循环机制有什么区别
+3. ES6 generataor
+4. 前面模块化[前端模块化](./JavaScript/前端模块化.md)
+5. 买卖股票的最佳时机[买卖股票的最佳时机](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/)
+
