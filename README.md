@@ -234,3 +234,11 @@ https://leetcode.cn/problems/binary-tree-preorder-traversal/
 3. axios原理
 4. TCP和UDP的区别
 5. 二叉树锯齿形层次遍历[二叉树锯齿形层次遍历](https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/)
+
+#### 2022年7月2日
+
+1. CSS3新特性
+2. new 运算符做了哪些事情
+3. js数组常用方法
+4. 说一下原型链是什么，实现继承的几种方式
+5. LRU 缓存机制[LRU 缓存机制](https://leetcode.cn/problems/lru-cache/)
