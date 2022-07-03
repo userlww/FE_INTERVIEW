@@ -242,3 +242,11 @@ https://leetcode.cn/problems/binary-tree-preorder-traversal/
 3. js数组常用方法
 4. 说一下原型链是什么，实现继承的几种方式
 5. LRU 缓存机制[LRU 缓存机制](https://leetcode.cn/problems/lru-cache/)
+
+#### 2022年7月3日
+
+1. vue diff算法
+2. javascript闭包
+3. 浏览器本地存储[浏览器本地存储](./browser/浏览器本地存储.md)
+4. csrf,跨站请求伪造
+5. [二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/)
