@@ -250,3 +250,11 @@ https://leetcode.cn/problems/binary-tree-preorder-traversal/
 3. 浏览器本地存储[浏览器本地存储](./browser/浏览器本地存储.md)
 4. csrf,跨站请求伪造
 5. [二叉树的最近公共祖先](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/)
+
+#### 2022年7月4日
+
+1. vue 响应式原理
+2. nodejs事件循环，和浏览器中的事件循环机制有什么区别
+3. 说一下Promise ，原理了解吗[Promise介绍](./JavaScript/Promise介绍.md)
+4. js中的this对象？
+5. 爬楼梯：https://leetcode.cn/problems/climbing-stairs/
