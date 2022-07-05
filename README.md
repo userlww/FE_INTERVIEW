@@ -258,3 +258,11 @@ https://leetcode.cn/problems/binary-tree-preorder-traversal/
 3. 说一下Promise ，原理了解吗[Promise介绍](./JavaScript/Promise介绍.md)
 4. js中的this对象？
 5. 爬楼梯：https://leetcode.cn/problems/climbing-stairs/
+
+#### 2022年7月5日
+
+1. 虚拟DOM是什么，vue中虚拟DOM是怎么工作的
+2. nodeJs中间件
+3. ajax原理
+4. 长列表优化？
+5. 了解哪些排序算法，复杂度是多少[排序算法合集](./algorithm/排序算法合集(一).md)
