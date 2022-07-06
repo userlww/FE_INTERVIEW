@@ -266,3 +266,11 @@ https://leetcode.cn/problems/binary-tree-preorder-traversal/
 3. ajax原理
 4. 长列表优化？
 5. 了解哪些排序算法，复杂度是多少[排序算法合集](./algorithm/排序算法合集(一).md)
+
+### 2022年7月6日
+
+1. webpack常用配置项有哪些
+2. Vue3特性知道哪些
+3. 函数式编程
+4. 垃圾回收
+5. js对象扁平化[javascript对象和数组扁平化](./algorithm/JavaScript数组和对象扁平化.md)
