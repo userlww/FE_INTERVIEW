@@ -1,5 +1,26 @@
-const  flat = function(obj,key) {
-  for(let [key,value] of Object.entries(obj)) {
-
+const  flat = function(obj,key = '',res = {}) {
+  for(let [k,v] of Object.entries(obj)) {
+    console.log('k',k);
+    console.log('v',v);
+    if(Object.prototype.toString.call(v) === '[object Object]') {
+      key = `${key}${k}.`
+      flat(v,key,res)
+    } else if (Array.isArray(v)) {
+      key = `${key}[${k}]`
+    } else {
+      key = `${key}${k}`;
+      res[key] = v;
+    }
+    return res;
   }
 } 
+
+const obj = {
+  a: {
+    b: {
+      c:"d"
+    }
+  }
+}
+
+flat(obj);
