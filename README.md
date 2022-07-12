@@ -298,3 +298,26 @@ https://leetcode.cn/problems/binary-tree-preorder-traversal/
 3. Vue中data为什么是一个函数
 4. Vue为什么是渐进式的
 5. [下一个排列](https://leetcode.cn/problems/next-permutation/) 
+
+#### 2022年7月10日
+1. Vue diff算法比对过程，key的作用[Vue diff算法](./Vue/Vue%20diff算法.md)
+2. Vue keep-alive
+3. Vuex是做什么用的，有哪几个模块
+4. flex布局常用属性和作用
+5. 合并区间[合并区间](https://leetcode.cn/problems/merge-intervals/)
+
+#### 2022年7月11日
+
+1. nodejs有哪些原生模块，各自是什么作用
+2. js中为什么0.1+0.2不等于0.3，数字精度问题如何解决
+3. 如何优化webpack打包速度
+4. Vue 3.0中的Treeshaking
+5. 排序链表：https://leetcode.cn/problems/sort-list/
+
+#### 2022年7月12日
+
+1. css如何实现左侧固定，右侧自适应布局
+2. 设计一个下拉展开选中组件，怎么做
+3. nginx了解吗，做什么用，反向代理是什么含义[nginx](./service/nginx.md)
+4. XSS注入了解吗，如何防御
+5. 快速排序
