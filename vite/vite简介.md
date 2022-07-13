@@ -55,10 +55,11 @@ import { someMethod } from 'my-dep'
 
 Vite天然支持引入.ts文件，但是它只负责ts文件的转义工作，并不进行任何类型检查。
 
-
 除了TS,Vite还支持Vue、JSX、css、PostCSS、JSON等各种类型的模块的打包，具体可以参考官方文档。
 
+### 总结
 
+本文简单说了一下vite的使用和一些基本功能，后续深入之后会持续更新
 ### 参考文献
 
 - [Vite官方指南](https://cn.vitejs.dev/guide/)
