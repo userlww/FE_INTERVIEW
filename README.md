@@ -321,3 +321,19 @@ https://leetcode.cn/problems/binary-tree-preorder-traversal/
 3. nginx了解吗，做什么用，反向代理是什么含义[nginx](./service/nginx.md)
 4. XSS注入了解吗，如何防御
 5. 快速排序
+
+#### 2022年7月13日
+
+1. 说一下回流和重绘，如何减少回流？
+2. nodeJs有哪些全局对象
+3. NodeJS fs这个模块了解吗
+4. vite了解吗[vite](./vite/vite简介.md)
+5. 二分查找
+
+#### 2022年7月14日
+
+1. TS枚举类型?
+2. git reset 和git revert区别
+3. nodeJS性能监控和优化
+4. HTTP常见请求头[HTTP常见请求头](./network/HTTP常见请求头.md)
+5. 环形链表
