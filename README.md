@@ -366,3 +366,12 @@ https://leetcode.cn/problems/binary-tree-preorder-traversal/
 4. 相交链表
 5. 最长上升子序列
 6. 二分查找
+
+#### 2022年7月18日
+
+题解：[算法题解整理系列(五)](./algorithm/算法题解整理系列(五).md)
+1. 全排列
+2. 反转链表
+3. 用栈实现队列
+4. 链表中的倒数第K个节点
+5. 对称二叉树
