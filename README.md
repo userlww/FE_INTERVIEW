@@ -450,3 +450,32 @@ https://leetcode.cn/problems/binary-tree-preorder-traversal/
 3. leecode 课程表
 4. leecode 全排列
 5. 长列表优化
+
+#### 2022年7月29日
+
+1.  git merge 和git rebase[git merge 和 git rebase ](./git/git%20merge和git%20rebase的区别.md)
+2. TS数据类型
+3. leecode 回文数
+4. leecode 删除排序链表中的重复元素
+5. leecode 有效电话号码
+
+#### 2022年7月30日
+
+题解[JavaScript中的this指针](./JavaScript/JavaScript中的this指针.md)
+1. 做一个简单的自我介绍，一分钟
+2. 项目中遇到过的最难的问题，怎么解决的
+3. 为什么离职
+4. 排序链表
+5. 下面这段代码输出结果是什么
+```
+var a = 10
+var obj = {
+  a: 20,
+  say: () => {
+    console.log(this.a)
+  }
+}
+obj.say() 
+var anotherObj = { a:30 }
+obj.say.apply(anotherObj)
+```
