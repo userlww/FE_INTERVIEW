@@ -97,3 +97,7 @@ obj.say()
 var anotherObj = { a:30 }
 obj.say.apply(anotherObj)
 ```
+
+### 参考文献
+
+- [面试官：谈谈this对象的理解](https://github.com/febobo/web-interview/issues/62)

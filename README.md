@@ -479,3 +479,11 @@ obj.say()
 var anotherObj = { a:30 }
 obj.say.apply(anotherObj)
 ```
+
+#### 2022年7月31日
+
+1. CDN是什么，实现原理[CDN](./network/CDN.md)
+2. nodeJs Buffer是做什么的？
+3. TypeScript 枚举类型？
+4. 策略模式
+5. leecode x的平方根
