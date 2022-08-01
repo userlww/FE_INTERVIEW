@@ -487,3 +487,11 @@ obj.say.apply(anotherObj)
 3. TypeScript 枚举类型？
 4. 策略模式
 5. leecode x的平方根
+
+#### 2022年8月1日
+
+1. 长列表优化怎么做
+2. 如何判断一个元素在可视区内
+3. leecode 路径总和[路径总和](./algorithm/路径总和.md)
+4. leecode 长度最小的子数组
+5. leecode：二叉树的完全性检验
