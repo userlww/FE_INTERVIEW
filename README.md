@@ -495,3 +495,18 @@ obj.say.apply(anotherObj)
 3. leecode 路径总和[路径总和](./algorithm/路径总和.md)
 4. leecode 长度最小的子数组
 5. leecode：二叉树的完全性检验
+
+#### 2022年8月2日
+1. Vue生命周期
+2. JavaScript执行上下文和执行栈
+3. 正则表达式常见简写，空字符？数字？非单词字符[正则表达式笔记.](./JavaScript/正则表达式笔记.md)
+4. 写一个正则匹配手机号
+5. leecode：删除链表的倒数第N个节点
+
+#### 2022年8月3日
+
+1. 正则表达式匹配ip地址
+2. JavaScript闭包
+3. 函数式编程
+4. leecode:合并区间
+5. leecode最长公共子序列[最长公共子序列](./algorithm/最长公共子序列.md)
