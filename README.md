@@ -510,3 +510,19 @@ obj.say.apply(anotherObj)
 3. 函数式编程
 4. leecode:合并区间
 5. leecode最长公共子序列[最长公共子序列](./algorithm/最长公共子序列.md)
+
+#### 2022年8月5日
+
+1. JavaScript常用数组方法[JavaScript常用数组方法](./JavaScript/JavaScript常用数组方法.md)
+2. 手写ajax
+3. 手写防抖函数、节流函数
+4.Vue diff算法详细说一下
+5. leecode 二叉树的最大深度
+
+#### 2022年8月6日
+
+1. Vue3.0的设计目标是什么？做了哪些优化
+2. == 和===的区别
+3. js常用数组方法[JavaScript数组常用方法(中)](./JavaScript/JavaScript数组常用方法(中).md)
+4. leecode 二叉树的最近公共祖先
+5. 二叉树的直径

@@ -2,18 +2,11 @@
 
 当数据发生变化时，触发setter通知watcher进行更新，此时会重新渲染render function生成新的虚拟DOM，与老的虚拟DOM进行patch，借助diff算法计算差异，进行视图更新。
 
-
-
-
-
 我们今天要讲的就是Vue diff时调用的patch函数，其中的逻辑就是diff算法的核心机制。
 
+#### patch函数
 
-
-patch函数
-
-
-
+```
 function patch (oldVnode, vnode) {
     // some code
     if (sameVnode(oldVnode, vnode)) {
@@ -32,10 +25,11 @@ function patch (oldVnode, vnode) {
     return vnode
 }
 
+```
+
 以上是patch函数的主干逻辑，首先会判断两个节点是否是同一个节点，如果不同节点，则直接用新节点替换旧节点，否则调用patchVnode方法进行更深层次的比较，其中判断两个节点是不是同一个节点的逻辑是这样的
 
-
-
+```
 function sameVnode (a, b) {
   return (
     a.key === b.key &&  // key值
@@ -46,15 +40,15 @@ function sameVnode (a, b) {
     sameInputType(a, b) // 当标签是<input>的时候，type必须相同
   )
 }
+```
 
 我们看到这段判断两个节点是否为同一个节点的代码中，判断了标签名和key属性，这也是key这个属性的关键性所在，在diff算法中，key的作用至关重要
 
 
 
-patchVnode方法
+#### patchVnode方法
 
-
-
+```
 patchVnode (oldVnode, vnode) {
     const el = vnode.el = oldVnode.el
     let i, oldCh = oldVnode.children, ch = vnode.children
@@ -72,19 +66,21 @@ patchVnode (oldVnode, vnode) {
       }
     }
 }
+
+```
 这个方法里做了几件事情
 
-找到对应的真实dom，即为el
+- 找到对应的真实dom，即为el
 
-判断Vnode和oldVnode是否指向同一个对象，如果是，那么直接return
+- 判断Vnode和oldVnode是否指向同一个对象，如果是，那么直接return
 
-如果他们都有文本节点并且不相等，那么将el的文本节点设置为Vnode的文本节点。
+- 如果他们都有文本节点并且不相等，那么将el的文本节点设置为Vnode的文本节点。
 
-如果oldVnode有子节点而Vnode没有，则删除el的子节点
+- 如果oldVnode有子节点而Vnode没有，则删除el的子节点
 
-如果oldVnode没有子节点而Vnode有，则将Vnode的子节点真实化之后添加到el
+- 如果oldVnode没有子节点而Vnode有，则将Vnode的子节点真实化之后添加到el
 
-如果两者都有子节点，则执行updateChildren函数比较子节点，这一步很重要
+- 如果两者都有子节点，则执行updateChildren函数比较子节点，这一步很重要
 
 
 
@@ -96,13 +92,13 @@ updateChildren
 
 其匹配的顺序是这样的
 
-newStart与oldStart
+- newStart与oldStart
 
-newend与oldEnd
+- newend与oldEnd
 
-newEnd与oldStart
+- newEnd与oldStart
 
-newStart与oldEnd
+- newStart与oldEnd
 
 
 
@@ -110,33 +106,25 @@ newStart与oldEnd
 
 下面讲到的命中指的是两者是同一个节点，判断规则同之前讲的。
 
+- newStart与oldStart命中，将newStart和oldStart分别后移
 
+- newEnd和oldEnd命中时，将newEnd和oldEnd分别前移
 
-newStart与oldStart命中，将newStart和oldStart分别后移
+- newEnd和oldStart命中，需要将newStart对应的节点移动到旧节点未处理的节点的后面
 
-newEnd和oldEnd命中时，将newEnd和oldEnd分别前移
-
-newEnd和oldStart命中，需要将newStart对应的节点移动到旧节点未处理的节点的后面
-
-newStart和oldEnd命中时，需要将newStart对应的节点移动到旧节点未处理的节点的前面
-
-
+- newStart和oldEnd命中时，需要将newStart对应的节点移动到旧节点未处理的节点的前面
 
 如果都没有命中时，会通过循环旧节点来进行寻找，如果找到了newOld指向的节点，会将其标记为undefined。
 
-
-
 我们会在一个循环中执行上述的匹配规则，循环结束的条件是：
 
-
-
+```
 while(newStart <= newEnd && oldStart<=oldEnd)
+```
 匹配结束之后newStart和newEnd之间的节点就是新增的节点，可以将其直接插入DOM中；
 
 匹配结束时，如果循环结束的条件是newStart > newEnd,那么oldStart和oldEnd之间的节点便是需要删除的节点；
 
-总结
-
-
+### 总结
 
 这篇文章总结了diff算法的关键，可能读起来要读懂是比较费力的，如果是面试的时候能答到这个程度，应该是足够了
