@@ -526,3 +526,19 @@ obj.say.apply(anotherObj)
 3. js常用数组方法[JavaScript数组常用方法(中)](./JavaScript/JavaScript数组常用方法(中).md)
 4. leecode 二叉树的最近公共祖先
 5. 二叉树的直径
+
+#### 2022年8月7日
+
+1. vue中的key是干什么用的
+2. 说一下原型链是什么，实现继承的几种方式
+3. 什么是同源策略，如何解决跨域问题
+4. 什么是回流和重绘，什么情况下会发生
+5. webpack构建原理
+
+#### 2022年8月8日
+
+1. ts中的interface怎么理解
+2. JavaScript闭包[JavaScript闭包](./JavaScript/JavaScript闭包.md)
+3. Vue整体工作流程，虚拟DOM。双向绑定？
+4. leecode:反转链表||
+5. leecode 最小路径和
