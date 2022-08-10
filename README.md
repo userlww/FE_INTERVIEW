@@ -542,3 +542,19 @@ obj.say.apply(anotherObj)
 3. Vue整体工作流程，虚拟DOM。双向绑定？
 4. leecode:反转链表||
 5. leecode 最小路径和
+
+#### 2022年8月9日
+
+1. JavaScript原型链[JavaScript原型链](./JavaScript/JavaScript原型链.md)
+2. nodeJs事件循环
+3. webpack打包原理
+4. leecode 全排列
+5. leecode:归并排序
+
+#### 2022年8月10日
+
+1. 函数式编程
+2. webpack打包原理[webpack打包原理](./webpack/webpack打包原理.md)
+3. Vue 异步更新机制
+4. leecode:翻转二叉树
+5. leecode 字符串的排列
