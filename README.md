@@ -558,3 +558,391 @@ obj.say.apply(anotherObj)
 3. Vue 异步更新机制
 4. leecode:翻转二叉树
 5. leecode 字符串的排列
+
+#### 2022年8月11日
+
+1. NodeJs事件循环[NodeJS事件循环](./NodeJs/NodeJS事件循环.md)
+2. Vue Diff算法
+3. JavaScript new运算符做了写什么
+4. 编程题： JavaScript对象扁平化
+5. leecode：快速排序
+
+#### 2022年8月12日
+
+1. vue 异步更新机制
+2. Vue3做了哪些优化
+3. 说一说常用的设计模式[JavaScript设计模式之工厂模式](./Design%20Patterns/JavaScript设计模式之工厂模式.md)
+4. leecode ：比较版本号
+5. leecode：移动0
+
+#### 2022年8月13日
+
+1. JavaScript设计模式
+2. Vue diff
+3. Vue 异步更新机制
+4. leecode 课程表
+5. leecode： x的平方根
+
+#### 2022年8月14日
+1. 简单说一下flex布局
+2. CSS3新特性
+3. Vue diff 算法详细说一下？
+4. leecode：最长连续序列
+5. leecode：二叉树前序、中序、后序遍历
+
+#### 2022年8月15日
+1. 使用 generator函数实现 async/await
+2. JavaScript this指向问题
+3. 原型链查找过程
+4. leecode 环形链表
+5. leecode 全排列
+
+#### 2022年8月16日
+1. async/await实现原理
+2. commonJS 和ES module的区别
+3. 实现一个异步的map函数 asyncMap
+4. leecode：字符串想加
+5. leecode：堆排序
+
+#### 2022年8月17日
+
+1. 手写防抖节流函数
+2. 手写Promise
+3. 手写ajax
+4. JavaScript闭包
+5. CSS动画怎么优化
+
+#### 2022年8月18日
+
+1. 手写async/await
+2. 手写原型模式继承
+3. Vue双向绑定原理
+4. leecode:打家劫舍
+5. leecode:岛屿数量
+
+#### 2022年8月19日
+
+1. 手写 async/await
+2. typescript联合类型
+3. nodeJS中间件
+4. leecode 反转链表
+5. leecode 最长公共子序列
+
+#### 2022年8月20日
+
+1. 对比一下Vue和react
+2. react state和props的区别
+3. node js process[NodeJS原生模块(一)](./NodeJs/NodeJS原生模块.md)
+4. leecode：无重复字符的最长子串
+5. leecode:  LRU缓存机制
+
+#### 2022年8月21日
+
+1. node JS process模块[process模块](./NodeJs/process模块.md)
+2. 为什么v-if和v-for不建议一起用
+3. JavaScript类型转换
+4. leecode：数组中的第K个最大元素
+5. leecode： 三叔之和
+
+#### 2022年8月22日
+
+1. Vue懒加载
+2. proxy实现数据响应式
+3. JavaScript事件委托
+4. leecode： k个一组翻转链表
+5. leecode：手撕快速排序
+
+#### 2022年8月23日
+
+1. cookie和session的区别
+2. OSI网络模型
+3. typescript数据类型
+4. leecode：最大自序和 
+5. leecode：合并两个有序链表
+
+#### 2022年8月24日
+
+1. async/await实现
+2. JavaScript数字精度问题
+3. web常见攻击方式
+4. leecode:两数之和
+5. leecode：二叉树的层序遍历
+
+#### 2022年8月25日
+
+1. webpack plugin
+2. webpack loader
+3. 函数柯里化
+4. leecode：搜索旋转排序数组
+5. leecode：买卖股票的最佳时机
+
+#### 2022年8月26日
+
+1. serviceworker和webworker的区别
+2. Vue3.0里为什么要用 Proxy API 替代 defineProperty API ？
+3. ==和===的区别
+4.leecode：环形链表
+5. leecode： 岛屿数量
+
+#### 2022年8月27日
+
+1. 接口返回1万条数据，如何处理
+2. 编写一个抽奖程序
+3. 强制缓存和协商缓存
+4. leecode:岛屿数量
+5. leecode：二叉树锯齿形层序遍历
+
+#### 2022年8月28日
+
+1. 打包工具对比 webpack、rollup、vite
+2. CDN的实现原理
+3. Node JS buffer
+4. leecode：二叉树的最近公共祖先
+5. leecode：最长回文子串
+
+#### 2022年8月29日
+
+1. Symbol类型有什么用处
+2. 计算属性和普通属性的区别
+3. Vue组件间通信的方式
+4. leecode：合并两个有序链表
+5. leecode：相交链表
+
+#### 2022年8月30日
+
+1. Vue keep-alive
+2. 说说em/px/rem/vh/vw区别?
+3. TCP和UDP的区别
+4. leecode: 全排列
+5. leecode: 螺旋矩阵
+
+#### 2022年8月31日
+
+1.强制缓存和协商缓存过程
+2. Promise的原理、手写一下？
+3. async/await手写一下？
+4. leecode：反转链表||
+5. leecode: 环形链表||
+
+#### 2022年9月1日
+
+1. Vue 模板解析过程，
+2. 正则表达式基础
+3. Vue diff算法
+4. leecode: 字符串想加
+5. leecode: 最长上升子序列
+
+#### 2022年9月2日
+
+1. JavaScript事件模型
+2. type和inistanceOf的区别
+3. new操作符具体做了些什么
+4. leecode:接雨水
+5.leecode：重排链表
+
+#### 2022年9月3日
+1. JavaScript事件模型
+2. type和inistanceOf的区别
+3. new操作符具体做了些什么
+4. leecode:接雨水
+5.leecode：重排链表
+
+#### 2022年9月4日
+
+1. TS接口怎么理解
+2. Node js Buffer
+3. get和post的区别
+4. leecode: 用栈实现队列
+5. leecode: 合并区间
+
+#### 2022年9月4日
+
+1. HTTP1和HTTP2的区别
+2. node进程监控和优化
+3. CSS三角形怎么画
+4. leecode:合并区间
+4.leecode:排序链表
+
+#### 2022年9月5日
+
+1. 如何让Chrome支持小于12px的字体
+2. DNS协议是什么，完整的DNS查询过程是怎样的
+3. react state和props的区别
+4. leecode： 二叉树的右视图
+5. leecode: 删除链表的倒数第n个节点
+
+#### 2022年9月6日
+
+1. flex布局
+2. CSS清除浮动
+3. CSS垂直居中
+4. leecode: 二叉树的右视图
+5. leecode: 排序链表
+
+#### 2022年9月7日
+
+1. Vue中父子组件的加载顺序
+2. Vue中数据通讯的方式
+3. TCP头部字段有哪些
+4. leecode：删除排序链表中的重复元素
+5. leecode: x的平方根
+
+#### 2022年9月8日
+
+1. Vue  diff算法
+2. Vue和react的区别
+3. 小程序组件和Vue组件的区别
+4. leecode:下一个排列
+5. leecode:字符串转换成整数
+
+#### 2022年9月9日
+
+1. react中props和state的区别
+2. css中link和@import的区别
+3. 封装一个组件要注意些什么
+4. leecode：最长公共子序列
+5. leecode:链表的倒数第K个元素
+   
+#### 2022年9月10日
+
+1. 什么是DTD
+2. 什么是微服务
+3. 哪些操作会导致内存泄漏
+4. leecode：链表中的倒数第k个节点
+5. leecode: 括号生成
+
+#### 2022年9月11日
+
+1. CSS外边距折叠是指什么，如何解决
+2. 解释一下同源策略
+3. iframe的缺点
+4. leecode:  二叉树前序遍历
+5. leecode：翻转字符串里的单词
+
+#### 2022年9月12日
+
+1. 图片使用base64的优缺点
+2. V8引擎的垃圾回收机制
+3. 文档类型声明的作用是什么
+4. leecode: 从前序和中序遍历序列中还原二叉树
+5. leecode:零钱兑换
+
+#### 2022年9月13日
+
+1. 二进制、10进制、16进制转换
+2. CSS左侧固定，右侧自适应布局
+3. 小程序性能优化策略有哪些
+4. leecode: 平衡二叉树
+5. leecode：最小栈
+
+#### 2022年9月14日
+
+1. Vue组件传值的方式有哪几种
+2. Symbol有什么用处
+3. 使用iconfont有什么优缺点
+4. leecode:比较版本号
+5. leecode：求根节点要叶节点数字之和
+
+#### 2022年9月15日
+1. Vue中计算属性和普通属性的区别
+2. 严格模式？
+3. HTML文档加载顺序
+4. leecode：二叉树的最大深度
+5. leecode：字符串相乘
+   
+#### 2022年9月16日
+
+1. 词法作用域和this的区别
+2. CSS实现响应式的几种方式
+3. webpack热更新原理
+4. leecode: 对称二叉树
+5. leecode：二叉树的最大深度
+
+
+#### 2022年9月17日
+
+1. sourceMap是做什么用的
+2. HTTP请求有什么特征
+3. 单向数据流的好处
+4. leecode:二叉树的直径
+5. leecode:路径总和
+
+#### 2022年9月18日
+
+1. 如何理解前后端分离
+2. CSS加载会阻塞渲染吗，为什么
+3. requestAnimationFrame的运行机制？
+4. leecode:二叉树的直径
+5. leecode:最小路径和
+
+#### 2022年9月19日
+
+1. grid布局了解吗
+2. PM2是什么，做什么用的
+3. CSP是什么
+4. 快速排序
+5. 数组去重
+
+#### 2022年9月20日
+
+1. CSS清楚浮动
+2. 手写EventBus
+3. CDN缓存刷新
+4. leecode:最大正方形
+5. leecode:翻转二叉树
+
+#### 2022年9月21日
+
+1. class和工厂模式的区别是什么
+2. 说说如何借助webpack来优化前端性能？
+3. React生命周期？
+4. leecode:路径总和
+5. leecode:组合总数
+
+#### 2022年9月22日
+
+1. 小程序的技术实现了解多少
+2. react如何做性能优化
+3. 什么是负载均衡
+4. leecode：最长重复子数组，
+5. leecode：翻转二叉树
+
+#### 2022年9月23日
+
+1. Vue中如何重置data
+2. 浏览器丢帧会造成什么问题
+3. DNS查询有几种方式
+4. 手写一个观察者模式
+5. leecode:合并两个有序链表
+
+#### 2022年9月24日
+
+1. 说一下Vuex
+2. React DOM 和虚拟DOM的区别
+3. state和props的区别
+4. leecode:最长公共前缀
+5. leecode：寻找峰值
+
+#### 2022年9月25日
+
+1. 说一下创建对象的几种方式，工厂模式？构造函数模式、原型模式，class之间的联系和区别
+2. Vue中的filter
+3. Vue中的依赖注入
+4. leecode：最大数
+5. leecode:手撕堆排序
+
+#### 2022年9月26日
+
+1. JavaScript中数组如何在内存中存储的
+2. 如何理解HTTP代理
+3. CSS Sprites是什么
+4. leecode: 字符串解码
+5. leecode: 岛屿的最大面积
+
+#### 2022年9月27日
+
+1. B站视频的弹幕是如何做到不遮挡人物的
+2. 如何理解Proxy，使用场景
+3. Linux了解吗，聊一下Linux文件系统
+4. leecode： 二叉树最大宽度
+5. leecode: 移动0

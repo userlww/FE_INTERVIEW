@@ -1,7 +1,5 @@
 const  flat = function(obj,key = '',res = {}) {
   for(let [k,v] of Object.entries(obj)) {
-    console.log('k',k);
-    console.log('v',v);
     if(Object.prototype.toString.call(v) === '[object Object]') {
       key = `${key}${k}.`
       flat(v,key,res)
