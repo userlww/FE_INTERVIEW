@@ -1,0 +1,22 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+  font-size: 14px;
+}
+body .ud__notice-success.ud__toast {
+  background: #F0FBEF;
+  border: 1px solid #34C724;
+}
+body .ud__notice__description-content {
+  font-weight: normal;
+}
+body .monaco-remote-cursor-tooltip {
+  padding: 2px 4px;
+  text-shadow: none;
+}
+body .ud__modal {
+  max-height: calc(100vh - 80px) !important;
+}
+
+
+/*# sourceMappingURL=main.d1a4f40472d40b8e6c27.css.map*/

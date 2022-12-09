@@ -3,11 +3,18 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 module.exports = {
   mode: 'development',
   entry: {
-    index: './src/index.js',
-    print: './src/print.js'
+    index: {
+      import: './src/index.js',
+      dependOn: 'shared'
+    },
+    print: {
+      import: './src/print.js',
+      dependOn: 'shared'
+    },
+    shared: 'lodash'
   },
   output: {
-    filename: '[name].bundle.js',
+    filename: '[name].[contenthash].js',
     path: path.resolve(__dirname, 'dist'),
     clean: true,
     publicPath: '/'
@@ -46,5 +53,8 @@ module.exports = {
   },
   devServer: {
     static: './dist'
+  },
+  optimization: {
+    runtimeChunk: 'single'
   }
 };
